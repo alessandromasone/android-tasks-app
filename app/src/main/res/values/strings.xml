@@ -1,0 +1,40 @@
+<resources>
+    <!-- Titolo dell'applicazione -->
+    <string name="app_name">Tasks</string>
+
+    <!-- Testo per il pulsante "Aggiungi attività" -->
+    <string name="add_task">Aggiungi attività</string>
+
+    <!-- Testo per il pulsante "Impostazioni" -->
+    <string name="settings">Impostazioni</string>
+
+    <!-- Testo per la casella di controllo "Mostra attività completate" -->
+    <string name="show_completed_tasks">Mostra attività completate</string>
+
+    <!-- Testo per la finestra di dialogo delle impostazioni -->
+    <string name="settings_title">Impostazioni</string>
+    <string-array name="settings_options">
+        <item>Modalità tema</item>
+        <item>Elimina tutte le attività</item>
+    </string-array>
+
+    <!-- Testo per la finestra di dialogo della modalità tema -->
+    <string name="theme_mode">Modalità tema</string>
+    <string-array name="theme_options">
+        <item>Chiara</item>
+        <item>Scura</item>
+    </string-array>
+
+    <!-- Testo per la finestra di dialogo di conferma dell'eliminazione di tutte le attività -->
+    <string name="delete_all_tasks">Elimina tutte le attività</string>
+    <string name="confirm_delete_all_tasks">Sei sicuro di voler eliminare tutte le attività?</string>
+
+    <!-- Testo per i pulsanti delle finestre di dialogo -->
+    <string name="cancel">Annulla</string>
+    <string name="delete">Elimina</string>
+
+    <!-- Testo per il campo nome attività vuoto -->
+    <string name="empty_task_name">Il nome dell\'attività non può essere vuoto</string>
+
+    <string name="add">Aggiungi</string>
+</resources>
