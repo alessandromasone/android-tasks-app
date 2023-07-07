@@ -41,7 +41,3 @@ Sono benvenuti i contributi per il miglioramento dell'app. Se desideri contribui
 2. Crea un nuovo branch per le tue modifiche.
 3. Esegui le modifiche nel tuo branch.
 4. Invia una pull request dal tuo branch al repository principale.
-
-## Licenza
-
-Il progetto è distribuito con la licenza [Nome della licenza].
